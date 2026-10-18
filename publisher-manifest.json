@@ -1,0 +1,74 @@
+{
+  "version": 2,
+  "template_version": "3a528c553883e59d7cfa",
+  "page_size": 20,
+  "site_id": "1209cea5a0ae33ae614a370a",
+  "owner": "hvkyfxhtd",
+  "repo": "page-1b7838d6478c88b5b2e97eb4",
+  "title": "FBoard",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "1b7838d6478c88b5b2e97eb4",
+      "a": "FBoard",
+      "b": "",
+      "entity": "FBoard",
+      "brand": "FBoard",
+      "separator": "",
+      "path": "index.html",
+      "hash": "ca4aa77fcbeeb52a5d43f1f94d780496d2443de1351bb3ee6a51d622ff4dffa5",
+      "content": {
+        "keyword1": "FBoard",
+        "keyword2": "",
+        "primary_entity": "FBoard",
+        "plans": [],
+        "clients": [],
+        "_offline": false,
+        "content": {
+          "AI_HERO_INTRO": "FBoard 订阅套餐一览：基础版、旗舰版、团队版的流量、设备数、节点说明与常见问题，按主题分组，提供独立小节的逐条说明。",
+          "AI_DESCRIPTION": "FBoard 订阅套餐一览：基础版、旗舰版、团队版的流量、设备数、节点说明与常见问题，按主题分组，提供独立小节的逐条说明。"
+        },
+        "_brand_page": {
+          "version": 3,
+          "body": "<style>\n*,*::before,*::after{box-sizing:border-box}\nhtml,body{margin:0;padding:0}\nbody{font-family:\"PingFang SC\",\"Hiragino Sans GB\",\"Microsoft YaHei\",-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif;color:#1d1d24;background:#f4f4f7;line-height:1.65;-webkit-font-smoothing:antialiased}\nimg,svg{max-width:100%;display:block}\na{color:#5a32c4;text-decoration:none;border-bottom:1px dotted #b8a8e6}\na:hover{color:#3b1ea1;border-bottom-style:solid}\nh1,h2,h3,h4{font-weight:600;color:#16161c;margin:0 0 .5em;letter-spacing:.01em}\nh1{font-size:34px;line-height:1.2}\nh2{font-size:24px;line-height:1.3;margin-top:2em}\nh3{font-size:18px;line-height:1.4;margin-top:1.4em}\np{margin:0 0 1em}\nul{margin:0 0 1em;padding-left:1.4em}\nli{margin:.25em 0}\nhr{border:0;border-top:1px dashed #cfcfe0;margin:2em 0}\n.wrap{max-width:980px;margin:0 auto;padding:0 20px}\n.hero{position:relative;overflow:hidden;background:#f4f4f7;padding:0 0 8px}\n.band{width:100%}\n.band.b1{background:#e8e4f5;padding:36px 0 22px}\n.band.b2{background:#d9cef2;padding:20px 0}\n.band.b3{background:#c4b3ee;padding:14px 0}\n.band.b4{background:#a98ce4;padding:36px 0 56px;color:#fff}\n.band.b4 h1{color:#fff;font-size:44px;max-width:760px;margin:0 auto;line-height:1.15}\n.band.b4 .lede{max-width:760px;margin:14px auto 0;color:#efe9ff;font-size:15px}\n.band-inner{max-width:980px;margin:0 auto;padding:0 20px}\n.tagline{font-size:13px;color:#4a4a55;letter-spacing:.08em;text-transform:uppercase}\n.brand-mark{display:inline-block;padding:6px 12px;border:1px dashed #fff5;font-weight:600;font-size:14px;letter-spacing:.18em;border-radius:2px;color:#fff}\n.kicker{font-size:12px;letter-spacing:.18em;color:#3b1b5e;text-transform:uppercase}\n.lede-block{max-width:760px}\n.jump{display:flex;flex-wrap:wrap;gap:8px 14px;margin-top:18px;font-size:13px;color:#fff}\n.jump a{color:#fff;border-bottom:1px dashed rgba(255,255,255,.55)}\n.jump a:hover{color:#fff;border-bottom-style:solid}\nmain{display:block;padding:28px 0 56px}\nsection{margin:0 0 28px}\n.card{background:#fff;border:1px dashed #b8a8e6;border-radius:6px;padding:22px 22px;margin:0 0 20px}\n.card.feature{border-color:#7e58d6;border-width:1.5px;box-shadow:0 6px 22px rgba(95,60,180,.10)}\n.ticket{display:grid;grid-template-columns:1fr auto;gap:14px 18px;align-items:start}\n.ticket h3{margin:0}\n.tag{display:inline-block;font-size:11px;letter-spacing:.12em;border:1px dashed #7e58d6;color:#5a32c4;padding:2px 8px;border-radius:2px;text-transform:uppercase}\n.tag.featured{background:#7e58d6;color:#fff;border-style:solid}\n.price{font-size:22px;color:#1d1d24;font-weight:600}\n.price small{font-weight:400;color:#6a6a78;font-size:12px;display:block;margin-top:4px;letter-spacing:.02em;text-transform:none}\n.feats{margin:14px 0 0;padding-left:0;list-style:none}\n.feats li{padding:6px 0;border-top:1px dashed #d8d4ea;font-size:14.5px;color:#2c2c38;display:flex;align-items:center;gap:10px}\n.feats li:first-child{border-top:0}\n.feats li::before{content:\"\";display:inline-block;width:6px;height:6px;background:#7e58d6;border-radius:50%;flex:0 0 6px}\n.intro-list{max-width:780px}\n.intro-list li{padding:6px 0;border-bottom:1px dashed #d8d4ea;list-style:none}\n.intro-list{padding-left:0}\n.cols-2{display:grid;grid-template-columns:1fr 1fr;gap:18px}\ndetails{background:#fff;border:1px dashed #b8a8e6;border-radius:6px;padding:0 18px;margin:0 0 12px}\ndetails summary{cursor:pointer;padding:14px 0;font-weight:600;color:#1d1d24;list-style:none;display:flex;align-items:center;gap:10px}\ndetails summary::-webkit-details-marker{display:none}\ndetails summary::before{content:\"+\";display:inline-block;width:18px;height:18px;line-height:18px;text-align:center;border:1px dashed #7e58d6;color:#5a32c4;font-weight:600;font-size:13px;border-radius:2px}\ndetails[open] summary::before{content:\"−\"}\ndetails .body{padding:4px 0 16px;color:#3b3b46;font-size:14.5px}\n.topic-head{display:flex;align-items:baseline;gap:12px;margin:24px 0 10px}\n.topic-head .num{font-family:Georgia,serif;color:#a98ce4;font-size:22px;font-weight:600}\n.footer{color:#6a6a78;font-size:12px;padding:8px 0 32px;text-align:center;border-top:1px dashed #cfcfe0;margin-top:24px}\n@media (max-width:680px){\nh1{font-size:28px}\n.band.b4 h1{font-size:30px}\n.cols-2{grid-template-columns:1fr}\n.ticket{grid-template-columns:1fr}\n.price{font-size:20px}\n.card{padding:18px}\n}\n</style><div class=\"hero\">\n<div class=\"band b1\">\n<div class=\"band-inner\">\n<span class=\"kicker\">Subscription · 订阅套餐与使用说明</span>\n<div><span class=\"brand-mark\">FBOARD</span></div>\n</div>\n</div>\n<div class=\"band b2\">\n<div class=\"band-inner\">\n<span class=\"tagline\">Plans / Pricing / FAQ</span>\n</div>\n</div>\n<div class=\"band b3\">\n<div class=\"band-inner\">\n<span class=\"tagline\">单列大卡依次堆叠 · 虚线框票据风格</span>\n</div>\n</div>\n<div class=\"band b4\">\n<div class=\"band-inner\">\n<h1>FBoard 订阅套餐：按用量与设备数选档，按月或按年付费</h1>\n<p class=\"lede\">本页罗列三个订阅档位的流量额度、设备上限与节点说明，并附常见问题分组。所有信息以本页为准；具体可购买入口与最新活动以官方发布渠道为准。</p>\n<nav class=\"jump\" aria-label=\"页内跳转\">\n<a href=\"#plans\">套餐一览</a>\n<a href=\"#compare\">档位对照</a>\n<a href=\"#usage\">使用说明</a>\n<a href=\"#faq\">常见问题</a>\n</nav>\n</div>\n</div>\n</div>\n\n<main class=\"wrap\">\n\n<section id=\"plans\">\n<h2 id=\"plans-h\">套餐一览</h2>\n<p>以下三档按流量与设备数递增，适合不同使用强度。卡片采用虚线框票据样式，便于逐项核对。</p>\n\n<article class=\"card\" aria-label=\"基础版\">\n<div class=\"ticket\">\n<div>\n<h3>基础版</h3>\n<span class=\"tag\">入门档</span>\n</div>\n<div class=\"price\">¥15 / 月<small>按年付仅需 ¥150 / 年</small></div>\n</div>\n<ul class=\"feats\">\n<li>每月 100GB 流量额度</li>\n<li>支持 3 台设备同时在线</li>\n<li>解锁基础流媒体</li>\n<li>普通线路节点池</li>\n</ul>\n</article>\n\n<article class=\"card feature\" aria-label=\"旗舰版\">\n<div class=\"ticket\">\n<div>\n<h3>旗舰版 <span class=\"tag featured\">推荐</span></h3>\n</div>\n<div class=\"price\">¥35 / 月<small>按年付仅需 ¥350 / 年</small></div>\n</div>\n<ul class=\"feats\">\n<li>每月 300GB 流量额度</li>\n<li>支持 5 台设备同时在线</li>\n<li>全节点原生流媒体解锁</li>\n<li>IPLC 专线游戏加速优化</li>\n<li>7×24 优先工单支持</li>\n</ul>\n</article>\n\n<article class=\"card\" aria-label=\"团队版\">\n<div class=\"ticket\">\n<div>\n<h3>团队版</h3>\n<span class=\"tag\">高用量</span>\n</div>\n<div class=\"price\">¥85 / 月<small>按年付仅需 ¥850 / 年</small></div>\n</div>\n<ul class=\"feats\">\n<li>每月 1000GB 流量额度</li>\n<li>支持 20 台设备同时在线</li>\n<li>VIP 专属高带宽节点</li>\n<li>支持企业定制路由</li>\n<li>专属客户经理服务</li>\n</ul>\n</article>\n</section>\n\n<section id=\"compare\">\n<h2 id=\"cmp-h\">档位对照速览</h2>\n<div class=\"cols-2\">\n<div class=\"card\">\n<h3>从流量角度看</h3>\n<ul class=\"intro-list\">\n<li>100GB：日常浏览与轻量视频</li>\n<li>300GB：高清视频与多设备并发</li>\n<li>1000GB：团队共享与高强度下载</li>\n</ul>\n</div>\n<div class=\"card\">\n<h3>从设备数角度看</h3>\n<ul class=\"intro-list\">\n<li>3 台：个人手机 + 电脑 + 平板</li>\n<li>5 台：含客厅设备或主机</li>\n<li>20 台：小型团队或家庭共享</li>\n</ul>\n</div>\n<div class=\"card\">\n<h3>从节点与支持角度看</h3>\n<ul class=\"intro-list\">\n<li>基础版：普通线路节点池</li>\n<li>旗舰版：全节点原生流媒体 + IPLC 专线 + 7×24 工单</li>\n<li>团队版：VIP 专属高带宽 + 企业定制路由 + 专属客户经理</li>\n</ul>\n</div>\n<div class=\"card\">\n<h3>从付费周期看</h3>\n<ul class=\"intro-list\">\n<li>按月付：按自然月扣费，灵活</li>\n<li>按年付：年付价格见各档位小字，相当于 10 个月</li>\n</ul>\n</div>\n</div>\n</section>\n\n<section id=\"usage\">\n<h2 id=\"use-h\">使用说明</h2>\n<div class=\"card\">\n<h3>订阅生效与到期</h3>\n<ul class=\"intro-list\">\n<li>订阅成功到账后即刻生效，流量按月重置</li>\n<li>到期未续费将停止下发新配置，账号进入保留期</li>\n<li>续费可叠加在原套餐之上，到期时间顺延</li>\n</ul>\n</div>\n<div class=\"card\">\n<h3>流量计量规则</h3>\n<ul class=\"intro-list\">\n<li>统计口径以出口网关为准，上下行均计入</li>\n<li>流量耗尽后本档位暂停下发，恢复续费或升级后继续</li>\n<li>套餐内流量不结转至下一周期</li>\n</ul>\n</div>\n<div class=\"card\">\n<h3>设备并行规则</h3>\n<ul class=\"intro-list\">\n<li>同时在线设备数达到上限时，新设备上线会顶掉最旧的会话</li>\n<li>同账号可在多平台客户端登录，由网关统一鉴权</li>\n</ul>\n</div>\n<div class=\"card\">\n<h3>升级与降级</h3>\n<ul class=\"intro-list\">\n<li>升级到更高档位：差价按剩余天数折算，立即生效</li>\n<li>降级到更低档位：下一个周期生效，本周期权益不变</li>\n</ul>\n</div>\n</section>\n\n<section id=\"faq\">\n<h2 id=\"faq-h\">常见问题</h2>\n\n<div class=\"topic-head\"><span class=\"num\">01</span><h3>订阅与付费</h3></div>\n<details>\n<summary>套餐是按月还是按年付费？</summary>\n<div class=\"body\">三种套餐均支持按月付和按年付。按月付按自然月计费；按年付为一次性预付，价格见各档位卡片小字（如“按年付仅需 ¥350 / 年”）。</div>\n</details>\n<details>\n<summary>可以中途从基础版升级到旗舰版吗？</summary>\n<div class=\"body\">可以。升级到更高档位时，差价按当前周期剩余天数折算，下发新配置后立即生效；本周期已使用流量不重置。</div>\n</details>\n<details>\n<summary>支持哪些付款方式？</summary>\n<div class=\"body\">以官方购买页提供的付款方式为准。本页不列具体通道，避免与实际开通情况不一致。</div>\n</details>\n\n<div class=\"topic-head\"><span class=\"num\">02</span><h3>流量与设备</h3></div>\n<details>\n<summary>每月 100GB / 300GB / 1000GB 是怎么计算的？</summary>\n<div class=\"body\">按自然月统计，从订阅生效日起每 30 天重置一次。流量耗尽后本档位暂停下发配置，恢复续费或升级后继续使用。</div>\n</details>\n<details>\n<summary>3 台 / 5 台 / 20 台设备是指什么？</summary>\n<div class=\"body\">指同一账号下可同时建立连接的设备数量上限。达到上限后，新登录会顶掉当前空闲最久的一路会话。</div>\n</details>\n<details>\n<summary>流量没使用完会结转到下个月吗？</summary>\n<div class=\"body\">不结转。每个周期的流量额度仅在当前周期内有效，到期重置。</div>\n</details>\n\n<div class=\"topic-head\"><span class=\"num\">03</span><h3>节点与加速</h3></div>\n<details>\n<summary>“普通线路节点池”和“全节点原生流媒体解锁”有什么区别？</summary>\n<div class=\"body\">基础版接入普通线路节点池，覆盖日常浏览与基础流媒体；旗舰版在全节点提供原生流媒体解锁，并叠加 IPLC 专线游戏加速优化。</div>\n</details>\n<details>\n<summary>团队版的“企业定制路由”包含什么？</summary>\n<div class=\"body\">团队版可基于使用场景定制出口路由策略，配套 VIP 专属高带宽节点与专属客户经理。</div>\n</details>\n\n<div class=\"topic-head\"><span class=\"num\">04</span><h3>售后与支持</h3></div>\n<details>\n<summary>遇到连接异常如何处理？</summary>\n<div class=\"body\">建议先在客户端切换节点排查；若仍异常，请通过工单提交日志片段与发生时间，便于排查。</div>\n</details>\n<details>\n<summary>旗舰版与团队版的售后区别？</summary>\n<div class=\"body\">旗舰版提供 7×24 优先工单支持；团队版在工单之外增加专属客户经理对接。</div>\n</details>\n\n</section>\n\n</main>\n\n<div class=\"footer wrap\">\n<p>本页所列套餐与价格为参考口径，以 FBoard 官方购买页实时公示为准。</p>\n</div>",
+          "hash": "73d68dbb01949645f4e5d56a56edb769224e8b855920138c15689713f3bfc17b",
+          "seo": {
+            "title": "FBoard · 订阅套餐与使用说明",
+            "keywords": "FBoard,订阅,套餐,流量,设备,流媒体,节点,加速",
+            "description": "FBoard 订阅套餐一览：基础版、旗舰版、团队版的流量、设备数、节点说明与常见问题，按主题分组，提供独立小节的逐条说明。"
+          },
+          "provider": "grok",
+          "model": "MiniMax-M3",
+          "design": {
+            "no": "3863",
+            "hero": "8 全宽色带分层堆叠",
+            "palette": "4 浅灰配电光紫",
+            "nav": "6 无导航，用区块内的跳转链接",
+            "card": "6 虚线框票据风格",
+            "plans_view": "4 单列大卡依次堆叠",
+            "faq_view": "4 details 折叠",
+            "tone": "6 清单式务实口吻",
+            "order": "首屏优先，其余区块由 AI 根据已选构图和信息关系安排"
+          }
+        }
+      }
+    }
+  ],
+  "domain": {
+    "apex": "abssa.cn",
+    "host": "p-afe0f80552.abssa.cn",
+    "kind": "subdomain",
+    "candidate_roots_ref": "subdomain_roots:91e741dce7c147d9ce91af6f84daa678dae755807d903b04925261e0a3a8d804",
+    "prefix_mode": "auto"
+  },
+  "friendlinks": [],
+  "file_hashes": {
+    "index.html": "8678cbc0e75926891089b122cfe61117d94a4907622d95e3aa0c0a24d132eaf2",
+    "sitemap.xml": "8452f6bbb0a1e27ad77c36bf79fb99ed79e12d2c0d12c8d247920d99b9a68b13",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "2661b62d50c13d93c9113d26d145969f075651bd12f91902cf5e1be09e7e52f1",
+    "robots.txt": "40ee9d9cc6bdd99659796b4b1c288bb2a7f6d1c870108f854050a272e20a73e4",
+    "cfee89770feaf46374faa7b9ef4f14d6.txt": "8ad02a12805dbb111292e9c734c53ca44ce2ce1708f9ed198ad9ce3c0b74711c"
+  },
+  "revision": "6c10f8b780f05c3966c902b43672b186cdace1df78dcc011a29b61ef7247c4eb"
+}
